@@ -1,0 +1,6 @@
+{
+  "name": "MeowLibrary",
+  "description": "Perpustakaan digital minimalis dengan peminjaman buku, manajemen koleksi, pelaporan otomatis, dan pemantauan transaksi real-time untuk admin dan member.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
